@@ -1,0 +1,25 @@
+body{
+    margin-top:20px;
+    background:#FAFAFA;
+}
+/*==================================================
+  Nearby People CSS
+  ==================================================*/
+
+.people-nearby .nearby-user{
+  padding: 20px 0;
+  border-top: 1px solid #f1f2f2;
+  border-bottom: 1px solid #f1f2f2;
+  margin-bottom: 20px;
+}
+
+img.profile-photo{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.delete, :hover{
+    color: #E34724;
+    cursor: pointer;
+}
